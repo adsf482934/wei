@@ -30,5 +30,20 @@ export default {
 </script>
 
 <style>
-
+   .login-wrap{
+     height: 100%;
+     background-color:#324152;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+   }
+   .login-form{
+     background-color: aliceblue;
+     width: 400px;
+     border-radius: 5px;
+     padding: 30px;
+   }
+   .login-btn{
+     width: 100%;
+   }
 </style>
